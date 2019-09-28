@@ -1,0 +1,4 @@
+[debug] [scala-playground-build] Classpath dependencies List()
+[debug] [scala-playground-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'scala-playground-build' to '/Users/hkumar/Development/scala-playground/project/.bloop/scala-playground-build.json'
+[success] Generated .bloop/scala-playground-build.json
